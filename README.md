@@ -10,7 +10,9 @@ I'm Shijie Zhao. I'm working on getting my bachelor's degree in computer science
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HPC&AI.
+- 🔭 I’m currently learning MPI, Go and ML.
+- 🌱 As a research beginner，my main research interests are HPC&AI.
 - 📫 How to reach me: zhao_shj2002@126.com
 - 😄 Pronouns: he/him
+
+**Define and love your life**
