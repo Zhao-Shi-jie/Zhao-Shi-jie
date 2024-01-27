@@ -1,7 +1,7 @@
 ### Hi, Shijie here! :wave:
 
-<img width="50%" align="right" alt="Zhao-Shi-jie's github stats" src="https://github-readme-stats.vercel.app/api?username=Zhao-Shi-jie&show_icons=true">
-
+<!--<img width="50%" align="right" alt="Zhao-Shi-jie's github stats" src="https://github-readme-stats.vercel.app/api?username=Zhao-Shi-jie&show_icons=true">
+<img width="50%" align="right" alt="Zhao-Shi-jie's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Shi-jie&layout=compact">-->
 I'm Shijie Zhao. I'm working on getting my bachelor's degree in computer science from CUMT, and next I'll be working on my master's degree at Hunan University.
 <!--
 - ⚡ Fun fact: ...
