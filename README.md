@@ -6,13 +6,13 @@
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...- 😄 Pronouns: he/him
 -->
 
 - ⚡ I am interested in parallel computing, backend development, and ML.
 - 🌱 My future research will mainly focus on HPC&AI.
 - 📫 How to reach me: zhao_shj2002@126.com
 - 🔭 Meanwhile, I am also considering corporate internship opportunities.
-- 😄 Pronouns: he/him
+
 
 **Define and love your life.**
