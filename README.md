@@ -7,13 +7,11 @@
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...- 😄 Pronouns: he/him- ⚡ I am interested in parallel computing, backend development.
--->
-
-
-- 🌱 My future research will mainly focus on HPC&AI.
 - 👯 Hope to communicate with you in the relevant field.
-- 📫 How to reach me: zhao_shj2002@126.com
 - 🔭 Meanwhile, I am also considering corporate internship opportunities.
+
+-->
+- 🌱 My future research will mainly focus on HPC.
 
 
 **Define and love your life.**
