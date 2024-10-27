@@ -9,9 +9,9 @@
 - 🤔 I’m looking for help with ...- 😄 Pronouns: he/him- ⚡ I am interested in parallel computing, backend development.
 - 👯 Hope to communicate with you in the relevant field.
 - 🔭 Meanwhile, I am also considering corporate internship opportunities.
-
--->
 - 🌱 My future research will mainly focus on HPC.
+-->
+
 
 
 **Define and love your life.**
