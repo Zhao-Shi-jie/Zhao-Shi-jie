@@ -1,4 +1,4 @@
-### Hi, Shijie here! :wave:
+### Hi! :wave:
 
 <!--<img width="50%" align="right" alt="Zhao-Shi-jie's github stats" src="https://github-readme-stats.vercel.app/api?username=Zhao-Shi-jie&show_icons=true">
 <img width="50%" align="right" alt="Zhao-Shi-jie's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhao-Shi-jie&layout=compact">-->
