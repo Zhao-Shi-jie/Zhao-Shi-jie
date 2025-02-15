@@ -10,8 +10,9 @@
 - 👯 Hope to communicate with you in the relevant field.
 - 🔭 Meanwhile, I am also considering corporate internship opportunities.
 - 🌱 My future research will mainly focus on HPC.
+**Define and love your life.**
 -->
 
 
 
-**Define and love your life.**
+
